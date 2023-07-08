@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanaeladam
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning python
 - 📫 How to reach me www.instagram.com/nathanaeladam
 
 <!---
